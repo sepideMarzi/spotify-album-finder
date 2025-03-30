@@ -21,7 +21,6 @@ Built with:
 ## 📸 Preview
 
 ![App Screenshot](https://github.com/user-attachments/assets/39e177a5-526d-429d-a501-6c0d36aef720)
-)
 
 ---
 
